@@ -57,7 +57,7 @@ If you like this project...Please give me star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to express my gratitude to Odin Project for the training. Additionally, I would like to give proper recognition to <a href="https://pngtree.com/">mehedi</a> the <a href="https://pngtree.com/freepng/pizza-logo-design_8363624.html">author of the original logo design</a>. Furthermore, credit is due to <a href="https://www.pexels.com/">Pixels</a>  for providing the captivating images and icons, respectively.
+I would like to express my gratitude to Odin Project for the training. Additionally, I would like to give proper recognition to <a href="https://pngtree.com/mehedi_27928216?type=1">mehedi</a> the <a href="https://pngtree.com/freepng/pizza-logo-design_8363624.html">author of the original logo design</a>. Furthermore, credit is due to <a href="https://www.pexels.com/">Pixels</a>  for providing the captivating images and icons, respectively.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
